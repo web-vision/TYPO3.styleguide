@@ -36,16 +36,6 @@ var comments = {
    		"comment": "<p>Supporting colors should only be used for web projects. For print please keep the key colors, black, white and grey.</p>"
    	},
     {
-   		"el": ".neos-colors",
-   		"title" : "Neos Colors",
-   		"comment": "<p>Supporting colors should only be used for web projects. For print please keep the key colors, black, white and grey.</p>"
-   	},
-    {
-   		"el": ".flow-colors",
-   		"title" : "Flow Colors",
-   		"comment": "<p>Supporting colors should only be used for web projects. For print please keep the key colors, black, white and grey.</p>"
-   	},
-    {
    		"el": ".message-colors",
    		"title" : "Message Colors",
    		"comment": "<p>Message colors should only be used for information purposes - e.g. as flash messages.</p>"
@@ -58,7 +48,67 @@ var comments = {
     {
    		"el": ".headings",
    		"title" : "Headings",
-   		"comment": "<p>Headings from h1 to h3 should be used sematically correct. The bold version of a heading should only be used once in a document. Chapter headings could be used more often. </p>"
+   		"comment": "<p>Headings from h1 to h5 should be used sematically correct. The bold version of a heading should only be used once in a document. Chapter headings could be used more often. </p>"
+   	},
+    {
+   		"el": ".mark-typo3",
+   		"title" : "TYPO3 Marker",
+   		"comment": "<p>The TYPO3 marker should only highlight very important parts of your paragraphs and should not be overused.</p>"
+   	},
+    {
+   		"el": "time",
+   		"title" : "Date and Time",
+   		"comment": "<p>Please respect the look & feel of date and time informations. Feel free to use the date and time format according to your local needs.</p>"
+   	},
+    {
+   		"el": ".pre",
+   		"title" : "Preformated Text",
+   		"comment": "<p>For preformated text, please use the 'Source Sans Code' font.</p>"
+   	},
+    {
+   		"el": ".unordered",
+   		"title" : "Unordered List",
+   		"comment": "<p>An unordered list should contain a list-style-icon in TYPO3 orange. Please notice that this icon is for nested elements slightly smaller.</p>"
+   	},
+    {
+   		"el": ".ordered",
+   		"title" : "Ordered List",
+   		"comment": "<p>An ordered list should contain a decimal numbers. Please respect the leading zero for single character digits. For nested elements, please use lowercase alphabetic characters.</p>"
+   	},
+    {
+   		"el": ".forms",
+   		"title" : "Forms & Input fields",
+   		"comment": "<p>Input fields should contain a placeholder text. Labels should be placed outside the input fields.</p>"
+   	},
+    {
+   		"el": ".selects",
+   		"title" : "Selects",
+   		"comment": "<p>You are allowed to alter selects according to your website's needs. Please respect the TYPO3 Style Guide in total.</p>"
+   	},
+    {
+   		"el": ".checkboxes",
+   		"title" : "Checkboxes",
+   		"comment": "<p>You are allowed to alter checkboxes according to your website's needs. Please respect the TYPO3 Style Guide in total.</p>"
+   	},
+    {
+   		"el": ".radiobuttons",
+   		"title" : "Radio Buttons",
+   		"comment": "<p>You are allowed to alter radio buttons according to your website's needs. Please respect the TYPO3 Style Guide in total.</p>"
+   	},
+    {
+   		"el": ".buttons",
+   		"title" : "Buttons",
+   		"comment": "<p>Please notice that only the dark version of the buttons gets lighter during mouse over. The orange version of the buttons gets darker.</p>"
+   	},
+    {
+   		"el": "table",
+   		"title" : "Tables",
+   		"comment": "<p>Tables doesn't have a footer. The background color of the table heading is always 100% white. The table body uses the 'Grey superlight' as shown above. For long tables you are allowed to use odd and even for table rows and also use 'white' and 'Grey superlight'.</p>"
+   	},
+    {
+   		"el": ".vcard",
+   		"title" : "Adresses",
+   		"comment": "<p>Addresses, even on official local websites, are written in international format.</p>"
    	}
 ]
 };
