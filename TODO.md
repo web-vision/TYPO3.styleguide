@@ -1,6 +1,6 @@
 Annotations for patterlab
 -------------------------
--* Neos Colors, Flow Colors > analog zu TYPO3 [DONE]-
+~* Neos Colors, Flow Colors > analog zu TYPO3 [DONE]~~
 * Message Colors [DONE]
 * Fonts: Hinweis auf mit Link auf Font Downloads (sobald auf t3o verfügbar) [DONE]
 * Headings: Wann Chapter, wann Title [DONE]
