@@ -8,7 +8,12 @@ var comments = {
 	{
 		"el": ".logo",
 		"title" : "Logo",
-		"comment": "The logo image is an SVG file, which ensures that the logo displays crisply even on high resolution displays. A PNG fallback is provided for browsers that don't support SVG images.</p><p>Further reading: <a href=\"http://bradfrostweb.com/blog/mobile/hi-res-optimization/\">Optimizing Web Experiences for High Resolution Screens</a></p>"
+		"comment": "The logo image is an SVG file, which ensures that the logo displays crisply even on high resolution displays. A PNG fallback is provided for browsers that don't support SVG images.</p><p>Further reading: <a href=\"http://bradfrostweb.com/blog/mobile/hi-res-optimization/\">Optimizing Web Experiences for High Resolution Screens</a>.</p><p>Please, only use the shown color variations of the TYPO3 Logo.</p>"
+	},
+	{
+		"el": ".logodonts",
+		"title" : "Logo Dont's",
+		"comment": "Don't use these kind of color variations of the TYPO3 Logo. If you fell unsure about the color variantions you want to use for your website, please contact the TYPO3 Design Team."
 	},
 	{
 		"el": "#nav",
@@ -76,6 +81,21 @@ var comments = {
    		"comment": "<p>An ordered list should contain a decimal numbers. Please respect the leading zero for single character digits. For nested elements, please use lowercase alphabetic characters.</p>"
    	},
     {
+   		"el": ".avatar",
+   		"title" : "Avatar",
+   		"comment": "<p>Using a picture of yourself as an avatar is really appreciated at official TYPO3 websites. Please respect the aspect ratio and portrait as image orientation. Squared or landscape images tend to give an unwanted border if the avatar is used with a background color.</p>"
+   	},
+    {
+   		"el": ".icons",
+   		"title" : "Icons",
+   		"comment": "<p>If you need additional icons for your website, please use 'Font-Awesome' as font. If you decide to use the negative version of an icon, please make sure that it is squared and the icon itself is centered.</p>"
+   	},
+    {
+   		"el": ".favicon",
+   		"title" : "Favicons",
+   		"comment": "<p>Feel free to use the TYPO3 Logo for your website as favicon in the shown variations. If you use it, please make sure that your include all available sizes of the favicon.</p>"
+   	},
+    {
    		"el": ".forms",
    		"title" : "Forms & Input fields",
    		"comment": "<p>Input fields should contain a placeholder text. Labels should be placed outside the input fields.</p>"
@@ -102,8 +122,8 @@ var comments = {
    	},
     {
    		"el": "table",
-   		"title" : "Tables",
-   		"comment": "<p>Tables doesn't have a footer. The background color of the table heading is always 100% white. The table body uses the 'Grey superlight' as shown above. For long tables you are allowed to use odd and even for table rows and also use 'white' and 'Grey superlight'.</p>"
+   		"title" : "Table",
+   		"comment": "<p>A table doesn't have a footer. The background color of the table heading is always 100% white. The table body uses the 'Grey superlight' as shown above. For long tables you are allowed to use odd and even for table rows and also use 'white' and 'Grey superlight'.</p>"
    	},
     {
    		"el": ".vcard",
