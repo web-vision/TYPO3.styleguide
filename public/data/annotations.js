@@ -129,6 +129,31 @@ var comments = {
    		"el": ".vcard",
    		"title" : "Adresses",
    		"comment": "<p>Addresses, even on official local websites, are written in international format.</p>"
+   	},
+    {
+   		"el": ".hgroup",
+   		"title" : "Heading Group",
+   		"comment": "<p>Combining two headings as a heading group is possible. Using a heading group, please use the first heading as h2 in bold, while using the second heading as h3 in normal.</p>"
+   	},
+    {
+   		"el": ".blockquoted",
+   		"title" : "Blockquote with Citations",
+   		"comment": "<p>Please make sure, that while using citations within blockquotes, the left border is exactly 5px solid and is using the 'Support Orange light' with 1rem margin towards the text.</p>"
+   	},
+    {
+   		"el": ".intro",
+   		"title" : "Intro Text",
+   		"comment": "<p>Introductional text, eg. like a summary or TL;DR in detailed view of an news article, shall be used in bold. Ongoing text should use font-weight normal.</p>"
+   	},
+    {
+   		"el": ".figured",
+   		"title" : "Figure or Picture with Caption",
+   		"comment": "<p>While using a figure or picture with a caption, please make sure that the caption has a text-align right, a border of 5px solid in 'Support Orange light' with 1rem margin towards the text.</p>"
+   	},
+    {
+   		"el": ".alert",
+   		"title" : "Alerts",
+   		"comment": "<p>Alerts for TYPO3 websites are simply flat, without any borders, using the message colors.</p>"
    	}
 ]
 };

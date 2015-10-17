@@ -19,11 +19,11 @@ Annotations for patterlab
 * Select, Checkbox, Radio: Allowed to alter if you want, but please respect the website's style. [DONE]
 * Buttons: Auf den Hover achten. Lediglich der dunkle Button wird bei Hover heller, alle anderen werden dunkler und nutzen die Support dark color. [DONE]
 * Table: Kein Footer, Farbige Linie ist immer die Keycolor [DONE]
-* Address: Immer internationale Schreibweise
-* TO DO: Headergroup, h2 (bold), h3 (nicht bold)
-* Blockquote with Citation: Links Border 5px solid, Color light, 1rem Abstand zum Text
-* Intro Text: fett gedruckt, sonst Ausprägung wie Fließtext
-* Figure with Caption: Text-align right, Rechts Border 5px solid, Color light, 1rem Abstand zum Text
+* Address: Immer internationale Schreibweise [DONE]
+* TO DO: Headergroup, h2 (bold), h3 (nicht bold) [DONE]
+* Blockquote with Citation: Links Border 5px solid, Color light, 1rem Abstand zum Text [DONE]
+* Intro Text: fett gedruckt, sonst Ausprägung wie Fließtext [DONE]
+* Figure with Caption: Text-align right, Rechts Border 5px solid, Color light, 1rem Abstand zum Text [DONE]
 * Alerts: kein Border, flat, Message Colors
 
 
